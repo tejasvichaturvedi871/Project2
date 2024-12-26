@@ -12,4 +12,4 @@ else:
 print(n,"prime number")
 else:
 print(n,"not a prime number")
-Screenshot_20241227-002325_Chrome](https://github.com/user-attachments/assets/fd8a390b-ce1d-4aca-a3ab-d04b2cda5463)
+
